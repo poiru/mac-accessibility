@@ -1,0 +1,23 @@
+{
+  "name": "mac-accessibility",
+  "version": "1.0.0",
+  "description": "Check accessibility permissions on macOS",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/poiru/mac-accessibility"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/poiru/mac-accessibility/issues"
+  },
+  "homepage": "https://github.com/poiru/mac-accessibility",
+  "dependencies": {
+    "bindings": "^1.2.1",
+    "nan": "^2.10.0"
+  },
+  "os": [
+    "darwin"
+  ],
+  "gypfile": true
+}
